@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">Calculadora IMC</string>
+    <string name="app_name">IMC!</string>
+    <string name="hello_world">Hello World</string>
+    <string name="insira_sua_altura_ex_1_70">Insira sua altura (ex: 1,70)!</string>
+    <string name="calcular">Calcular</string>
+    <string name="imc">IMC</string>
 </resources>
